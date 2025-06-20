@@ -31,3 +31,5 @@ scripts/__pycache__/
 *.dwl2
 /Hardware/__Previews
 /Hardware/History
+Hardware/PCB_1.IntLib
+Hardware/PcbLib1.PcbLib
